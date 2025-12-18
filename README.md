@@ -10,6 +10,7 @@ Based on these observations, one representative condition was selected for each 
  - drive with Friends and no urgent place or
  - Age around 21 or
  - in a Sunny date with 55 F degree
+
 is more likely to accpet the [bar coupon] than average acceptance rate (41.19%).
 The sample selected (10PM,Friend(s),Male,No Urgent Place,Single,Sunny) gives us an acceptance rate of 78.57%.
 
@@ -19,7 +20,8 @@ The sample selected (10PM,Friend(s),Male,No Urgent Place,Single,Sunny) gives us 
  - drive with Partner and no urgent place or
  - not married but has a partner or
  - Age around 46 or
- - time around 10AM or
+ - time around 10AM 
+
 is more likely to accpet the [Restaurant(20-50)] than average acceptance rate (44.60%).
 The sample selected (10AM,Female,Partner,No Urgent Place,Unmarried partner) gives us an acceptance rate of 70.00%.
 
@@ -28,7 +30,8 @@ The sample selected (10AM,Female,Partner,No Urgent Place,Unmarried partner) give
 - drive alone and no urgent place or
 - widowed female or
 - divorced male or
-- time around 2pm or
+- time around 2pm 
+
 is more likely to accpet the [Carry out & Take away] than average acceptance rate (73.77%).
 The sample selected(2PM,No Urgent Place) gives us an acceptance rate of 86.60%.
 
@@ -37,7 +40,8 @@ The sample selected(2PM,No Urgent Place) gives us an acceptance rate of 86.60%.
 - drive with friends and no urgent place or
 - single male or
 - divorced male or
-- time around 10am or
+- time around 10am 
+
 is more likely to accpet the [Coffee House] than average acceptance rate (49.63%).
 The sample selected(below21,Male) gives us an acceptance rate of 81.93%.
 
@@ -46,6 +50,7 @@ The sample selected(below21,Male) gives us an acceptance rate of 81.93%.
 - drive with partner and no urgent place or
 - age 41 male or
 - divorced male or
-- time around 2-6 pm or
+- time around 2-6 pm 
+
 is more likely to accpet the [Restaurant(<20)] coupon than average acceptance rate (70.90%).
 The sample selected(6pm) gives us an acceptance rate of 82.66%.
